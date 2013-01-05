@@ -14,4 +14,5 @@ Running examples:
 * (Lecture 1 info)[http://compscicenter.ru/node/5174]
 * (Lecture 2)[http://www.lektorium.tv/lecture/?id=13576]
 * (Lecture 2 info)[http://compscicenter.ru/node/5177]
+* (Lecture 2 part 2)[http://www.lektorium.tv/lecture/?id=13577]
 
